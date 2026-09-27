@@ -155,3 +155,14 @@ preserved in `LICENSE`. Public AMF format documentation and MIT-licensed libxmp
 were used to cross-check format behavior, but no libxmp code is linked or copied.
 
 See [`NOTICE.md`](NOTICE.md) for the precise distribution boundary.
+
+## Other GUS Patches
+
+[Gravis Ultrasound Game Patches](https://github.com/koodoonas/gus-game-patches-and-fixes)
+
+## AI usage disclosure
+
+These patches have been heavily assisted by AI and, in some cases, developed almost entirely with its help.
+
+I remain ambivalent about AI and its human and environmental costs. But since it’s already here, I might as well use it for something fun until it consumes us all.
+
