@@ -4058,7 +4058,7 @@ play_requested_sfx:
 %ifdef TRACE_BUILD
 msg_banner       db 13,10,'CF2DIAG 0.5 - Cannon Fodder 2 GF1 transition trace',13,10,'$'
 %else
-msg_banner       db 13,10,'CF2GUS 0.5 alpha - Cannon Fodder 2 native GF1 audio',13,10,'$'
+msg_banner       db 13,10,'CF2GUS 0.5 - Cannon Fodder 2 native GF1 audio',13,10,'$'
 %endif
 msg_bad_args     db 'Usage: CF2GUS [/T] [/P-100..100] [/M0..100] [/S0..100]',13,10
                  db '               [/LON|/LOFF]',13,10

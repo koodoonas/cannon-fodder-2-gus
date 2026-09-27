@@ -1,5 +1,5 @@
-CF2GUS 0.5 ALPHA - DOS QUICK START
-==================================
+CF2GUS 0.5 - DOS QUICK START
+============================
 
 CF2GUS adds native GF1 music and sound effects to one verified build of
 Cannon Fodder 2. It also reserves the low 64 KiB block normally obtained
@@ -43,7 +43,7 @@ The aliases -vp, -vm, and -vs are also accepted.
 NOTES
 -----
 
-This alpha uses the GF1 only. It does not use ISA DMA or the GUS MAX codec.
+This release uses the GF1 only. It does not use ISA DMA or the GUS MAX codec.
 It programs 14 active voices for 44.1 kHz output: 4 music, 8 SFX, 2 silent.
 The screen prints the base, both DMA values, and both IRQ values parsed from
 ULTRASND before the card is probed.

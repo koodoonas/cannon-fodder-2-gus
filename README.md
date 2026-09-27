@@ -19,7 +19,7 @@ exist only in the child process while it runs.
 | Real GF1 hardware | v0.5 verified on an AMD 386DX-40 with a 1 MiB GUS MAX: intro, Home:Away, scrolling loader, post-level music, and gameplay SFX play correctly |
 | Original English CD/floppy media | Executable and all 21 audio assets match the supplied installed set byte for byte |
 
-Version 0.5 alpha is the first build with the complete music path verified on
+Version 0.5 is the first release with the complete music path verified on
 the target 386/GUS MAX. Keep the original game installation available and
 report the exact on-screen output if testing fails on another configuration.
 

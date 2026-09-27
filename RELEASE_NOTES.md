@@ -1,4 +1,4 @@
-# CF2GUS 0.5 alpha
+# CF2GUS 0.5
 
 - Restores the original selector's post-load fade-in state. The verified game
   routine arms a 64-step fade from master level zero after every successful
